@@ -1,0 +1,103 @@
+
+body{
+    
+    margin: 0;
+    text-align: center;
+    background-color:#E1EEDD;
+}
+.top-container{
+    position: relative;
+    padding-top: 125px;
+    width: 50%;
+    margin: 100px auto 100px auto;
+
+}
+.title{
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+
+}
+h1{
+    margin:0;
+    font-family: 'Tilt Neon', cursive;
+    color:  #66BFBF;
+
+
+    
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    color:  #66BFBF;
+
+} 
+.title_first_paragraph{
+    font-family: 'Golos Text', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 400px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+.middle-container{
+background-color: #E1EEDD;
+width: 50%;
+margin: 100px auto 100px auto;
+line-height: 3;
+text-align:left ;
+
+}
+
+
+.mypic{
+    height: 200px;
+    width: 200px;
+    padding: 15px;
+     border-radius:50%;
+}
+.css{
+    font-family: 'Golos Text', sans-serif;
+}
+.skill_pic{
+    align-items: center;
+    position:static;
+    margin-top: 0%;
+    right: 40%;
+    width: 300px;
+    height: 300px;
+    padding: 0;
+    
+}
+.book_image
+{
+     height: 250px;
+     width:250px;
+    border-radius: 50%;
+    background-color: rgb(104, 187, 202);
+}
+.lower-container {
+    background-color: #E1EEDD;
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.bottom-container{
+    position: static;
+    padding-bottom: 50px;
+}
+.lower-container-h1{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 10px;
+}
+hr{
+    border-style: dotted;
+     border-width: 20%;
+}
